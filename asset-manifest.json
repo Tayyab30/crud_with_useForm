@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crud_with_useForm/static/css/main.fde8f22c.chunk.css",
+    "main.js": "/crud_with_useForm/static/js/main.f66e357d.chunk.js",
+    "main.js.map": "/crud_with_useForm/static/js/main.f66e357d.chunk.js.map",
+    "runtime-main.js": "/crud_with_useForm/static/js/runtime-main.7fbe0ff3.js",
+    "runtime-main.js.map": "/crud_with_useForm/static/js/runtime-main.7fbe0ff3.js.map",
+    "static/css/2.455652b6.chunk.css": "/crud_with_useForm/static/css/2.455652b6.chunk.css",
+    "static/js/2.db8f4add.chunk.js": "/crud_with_useForm/static/js/2.db8f4add.chunk.js",
+    "static/js/2.db8f4add.chunk.js.map": "/crud_with_useForm/static/js/2.db8f4add.chunk.js.map",
+    "static/js/3.3f75cb75.chunk.js": "/crud_with_useForm/static/js/3.3f75cb75.chunk.js",
+    "static/js/3.3f75cb75.chunk.js.map": "/crud_with_useForm/static/js/3.3f75cb75.chunk.js.map",
+    "index.html": "/crud_with_useForm/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/crud_with_useForm/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.fde8f22c.chunk.css.map": "/crud_with_useForm/static/css/main.fde8f22c.chunk.css.map",
+    "static/js/2.db8f4add.chunk.js.LICENSE.txt": "/crud_with_useForm/static/js/2.db8f4add.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fbe0ff3.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.db8f4add.chunk.js",
+    "static/css/main.fde8f22c.chunk.css",
+    "static/js/main.f66e357d.chunk.js"
+  ]
+}
